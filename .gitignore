@@ -1,0 +1,6 @@
+config.json
+bridge_log.txt
+__pycache__/
+*.pyc
+.vscode/
+.idea/
